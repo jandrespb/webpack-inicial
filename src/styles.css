@@ -1,0 +1,13 @@
+html, body{
+    margin: 0;
+    background-color: #ddd;
+}
+
+p{
+    font-size: 15px;
+    background-color: coral;
+}
+
+img {
+    width: 200px;
+}
